@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are your support hours?",
+    "answer": "Our support team is available 24/7."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot password' on the login page and follow the instructions."
+  },
+  {
+    "question": "Where are you located?",
+    "answer": "Our headquarters are in San Francisco, CA."
+  }
+]
